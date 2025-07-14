@@ -5,3 +5,4 @@ Precise video retrieval requires multi-modal correlations to handle unseen vocab
 
 
 Initial demo for the archeticture i've recorded: [Video](https://www.youtube.com/watch?v=MPHTWzl813M)
+Paper Link: [Paper](https://arxiv.org/abs/2504.04572)
