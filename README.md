@@ -1,6 +1,6 @@
-<img width="350" height="300" alt="Project Screenshot" src="https://github.com/user-attachments/assets/472ce654-81c1-41e6-b420-e7c81b9d5587" />
-<br>
-<br>
+<div align="center">
+  <img width="350" height="300" alt="Project Screenshot" src="https://github.com/user-attachments/assets/472ce654-81c1-41e6-b420-e7c81b9d5587" />
+</div>
 
 
 Note: This work is an extension after the summer school with KAUST, original work can be seen through the following [link](https://github.com/Abdulrahman-Alfrihidi/Summer-project/blob/main/Report-summer-project.pdf)
