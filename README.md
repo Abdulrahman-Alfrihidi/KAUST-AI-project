@@ -10,4 +10,4 @@ Precise video retrieval requires multi-modal correlations to handle unseen vocab
 
 
 Initial demo for the archeticture i've recorded: [Video](https://www.youtube.com/watch?v=MPHTWzl813M) <br> <br>
-Paper Link: [![arXiv](https://img.shields.io/badge/arXiv-2509.16438-b31b1b.svg)](https://arxiv.org/abs/2504.04572)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.16438-b31b1b.svg)](https://arxiv.org/abs/2504.04572)
